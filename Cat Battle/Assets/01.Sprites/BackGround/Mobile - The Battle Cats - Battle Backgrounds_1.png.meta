@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 2b847ec244c3db1469bdea6d247612e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1118941549747820988
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_0
+  - first:
+      213: 294018907806312811
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_1
+  - first:
+      213: 4781212585447305290
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_2
+  - first:
+      213: -5916339748476720818
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_3
+  - first:
+      213: 6958544403023275304
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_4
+  - first:
+      213: -6925358422334835225
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_5
+  - first:
+      213: 4167013637623289824
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_6
+  - first:
+      213: -5469778040087470258
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_7
+  - first:
+      213: 8183296591924903925
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_8
+  - first:
+      213: -1762749199988820894
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_9
+  - first:
+      213: 580386381381767552
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_10
+  - first:
+      213: 5872787812282293382
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_11
+  - first:
+      213: -9200192108874032039
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_12
+  - first:
+      213: 4019729958891663389
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_13
+  - first:
+      213: 1132026541179839766
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_14
+  - first:
+      213: -1740956177664116133
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_15
+  - first:
+      213: 1718743227353482594
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_16
+  - first:
+      213: -4916291199160511103
+    second: Mobile - The Battle Cats - Battle Backgrounds_1_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462bd2c698b870f0800000000000000
+      internalID: -1118941549747820988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_1
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1374
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b692b0d83a0941400800000000000000
+      internalID: 294018907806312811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_2
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1374
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b637b3874a5240800000000000000
+      internalID: 4781212585447305290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_3
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 1374
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4965894850f4eda0800000000000000
+      internalID: -5916339748476720818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_4
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 1374
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8252cff3447b19060800000000000000
+      internalID: 6958544403023275304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_5
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 1374
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f87ef43f24ef90800000000000000
+      internalID: -6925358422334835225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e79ebc53d434d930800000000000000
+      internalID: 4167013637623289824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_7
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 687
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9a584ad17714b0800000000000000
+      internalID: -5469778040087470258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_8
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 687
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff3955b4e8e09170800000000000000
+      internalID: 8183296591924903925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_9
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 687
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ff8a21f47987e0800000000000000
+      internalID: -1762749199988820894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_10
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 687
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0811cbeb652fd0800800000000000000
+      internalID: 580386381381767552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_11
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 687
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c54506665508150800000000000000
+      internalID: 5872787812282293382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c163d850a525080800000000000000
+      internalID: -9200192108874032039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_13
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10bbb4a913f8c730800000000000000
+      internalID: 4019729958891663389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_14
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 0
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615a6573424c5bf00800000000000000
+      internalID: 1132026541179839766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_15
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 0
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5afec49491e6d7e0800000000000000
+      internalID: -1740956177664116133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_16
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 0
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2654386ebd33ad710800000000000000
+      internalID: 1718743227353482594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Battle Backgrounds_1_17
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 0
+        width: 1039
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18598a5b333d5cbb0800000000000000
+      internalID: -4916291199160511103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
